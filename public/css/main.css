@@ -8,7 +8,7 @@ html{
 body{
   margin: 0px;
   width:98%;
-  font-size: 150%;
+  font-size: 175%;
 }
 
 .navbar{
@@ -16,6 +16,7 @@ body{
   width: 100%;
   flex-wrap: wrap;
   justify-content: center;
+  font-family: 'Italianno', Helvetica, Sans-serif;
 }
 
 .navlink {
@@ -58,8 +59,8 @@ body{
 
 .large_fancy_font{
   margin: 0px;
-  font-size: 450%;
-  font-family: "Brush Script MT";
+  font-size: 400%;
+  font-family: Brush Script MT;
   color: white;
   text-shadow:
     -1px -1px 0 #000,
@@ -75,4 +76,5 @@ body{
   padding: 2px 1rem;
   border-radius: 1rem;
   height: auto;
+  font-family: Monotype Corsiva;
 }
