@@ -16,7 +16,7 @@ body{
   width: 100%;
   flex-wrap: wrap;
   justify-content: center;
-  font-family: 'Italianno', Helvetica, Sans-serif;
+  font-family: Italianno, Helvetica, Sans-serif;
 }
 
 .navlink {
