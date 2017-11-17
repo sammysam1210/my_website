@@ -52,7 +52,7 @@ body{
   flex-wrap: wrap;
   justify-content: center;
   height:auto;
-  width:85%;
+
   margin-left: auto;
   margin-right: auto;
 }
@@ -67,6 +67,8 @@ body{
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000;
+  width: 100%;
+  text-align: center;
 }
 
 .card{
