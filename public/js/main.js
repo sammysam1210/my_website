@@ -6,6 +6,7 @@ if (localStorage.bgImg != "")
 else {
   x[0].style.backgroundImage='url("images/background.jpg")';
 }
+
 function changeBack()
 {
     if (x[0].style.backgroundImage == 'url("images/background2.jpg")'){
